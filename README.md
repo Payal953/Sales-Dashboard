@@ -22,3 +22,7 @@ This Power BI project analyzes multi-year sales data to identify sales trends, p
 ##  Objective
 
 The objective of this project is to analyze sales data and provide meaningful insights through an interactive Power BI dashboard.
+
+## Dashboard Preview
+![Power BI Dashboard](Screenshot%202026-08-12%20215832.png).
+
