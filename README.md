@@ -65,3 +65,5 @@ This project is an HR Analytics Dashboard created using Power BI. It helps analy
 To analyze employee data and understand attrition patterns using interactive Power BI visualizations.
 
 
+[View HR Analytics Dashboard Screenshot](Screenshot%202026-09-22%20211241.png)
+
